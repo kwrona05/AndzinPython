@@ -25,3 +25,4 @@ def todoApp():
     else:
         print('Błędny numer opcji')
 todoApp()
+
